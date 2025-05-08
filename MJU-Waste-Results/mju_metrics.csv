@@ -1,0 +1,2 @@
+dataset,number of images,number of images with predictions,number of images without predictions,class 0.0 classifications,class 2.0 classifications,class 3.0 classifications,class 4.0 classifications,average time,average time for images with predictions,average time for images without predictions,average confidence
+MJU,2475,897,1578,17,1,869,10,0.044377828,0.044748892,0.0441669,0.494399876
